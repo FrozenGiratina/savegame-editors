@@ -88,6 +88,10 @@ Armor.AVAILABILITY=[
 	'Armor_008_Upper','Armor_040_Upper','Armor_065_Upper','Armor_066_Upper','Armor_067_Upper', //Desert Voe Spaulder
 	'Armor_008_Lower','Armor_040_Lower','Armor_065_Lower','Armor_066_Lower','Armor_067_Lower', //Desert Voe Trousers
 
+	'Armor_053_Head',//Gerudo Mask
+	'Armor_053_Upper',//Gerudo Top
+	'Armor_053_Lower',//Gerudo Trousers
+
 	'Armor_009_Head','Armor_036_Head','Armor_071_Head','Armor_072_Head','Armor_073_Head', //Snowquill Headdress
 	'Armor_009_Upper','Armor_036_Upper','Armor_071_Upper','Armor_072_Upper','Armor_073_Upper', //Snowquill Tunic
 	'Armor_009_Lower','Armor_036_Lower','Armor_071_Lower','Armor_072_Lower','Armor_073_Lower', //Snowquill Trousers
@@ -240,9 +244,9 @@ Armor.AVAILABILITY=[
 
 	'Armor_1076_Head', //Cece Hat
 
-	'Armor_1086_Head', //Mystic Headpiece
-	'Armor_1086_Upper', //Mystic Robe
-	'Armor_1086_Lower', //Mystic Trousers
+	'Armor_1086_Head','Armor_1087_Head','Armor_1088_Head','Armor_1089_Head','Armor_1090_Head', //Mystic Headpiece
+	'Armor_1086_Upper','Armor_1087_Upper','Armor_1088_Upper','Armor_1089_Upper','Armor_1090_Upper', //Mystic Robe
+	'Armor_1086_Lower','Armor_1087_Lower','Armor_1088_Lower','Armor_1089_Lower','Armor_1090_Lower', //Mystic Trousers
 
 	'Armor_1091_Head','Armor_1092_Head','Armor_1093_Head','Armor_1094_Head','Armor_1095_Head', //Zonaite Helm
 	'Armor_1091_Upper','Armor_1092_Upper','Armor_1093_Upper','Armor_1094_Upper','Armor_1095_Upper', //Zonaite Waistguard
@@ -343,6 +347,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1061','1062','1063','1064','1065'], //Ember Headdress/Shirt/Trousers
 	['1066','1067','1068','1069','1070'], //Charged Headdress/Shirt/Trousers
 	['1071','1072','1073','1074','1075'], //Frostbite Headdress/Shirt/Trousers
+	['1086','1087','1088','1089','1090'], //Mystic Headpiece/Robes/Trousers
 	['1091','1092','1093','1094','1095'], //Zonaite Helm/Waistguard/Shin Guards
 	['1096','1097','1098','1099','1100'], //Mask/Tunic/Trousers of Awakening
 	['1106','1107','1108','1109','1110'], //Champions Leather
