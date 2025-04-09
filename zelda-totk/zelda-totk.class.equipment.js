@@ -260,6 +260,13 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_001:20,
 	Weapon_Sword_002:23,
 	Weapon_Sword_003:27,
+	Weapon_Sword_005:25,
+	Weapon_Sword_006:26,
+	Weapon_Sword_008:23,
+	Weapon_Sword_009:27,
+	Weapon_Sword_016:20,
+	Weapon_Sword_017:25,
+	Weapon_Sword_018:30,
 	Weapon_Sword_019:5,
 	Weapon_Sword_020:5,
 	Weapon_Sword_021:6,
@@ -268,17 +275,24 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_025:27,
 	Weapon_Sword_027:27,
 	Weapon_Sword_029:14,
+	Weapon_Sword_030:32,
 	Weapon_Sword_031:27,
+	Weapon_Sword_033:36,
+	Weapon_Sword_034:30,
+	Weapon_Sword_035:36,
 	Weapon_Sword_041:26,
+	Weapon_Sword_042:80,
 	Weapon_Sword_043:8,
 	Weapon_Sword_044:4,
 	Weapon_Sword_047:12,
 	Weapon_Sword_051:18,
 	Weapon_Sword_052:60,
+	Weapon_Sword_053:14,
 	Weapon_Sword_057:45,
 	Weapon_Sword_058:27,
 	Weapon_Sword_059:20,
 	Weapon_Sword_070:40,
+	Weapon_Sword_073:25,
 	Weapon_Sword_101:15,
 	Weapon_Sword_103:12,
 	Weapon_Sword_105:16,
@@ -293,6 +307,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_125:17,
 	Weapon_Sword_127:20,
 	Weapon_Sword_129:10,
+	Weapon_Sword_130:22,
 	Weapon_Sword_131:18,
 	Weapon_Sword_147:10,
 	Weapon_Sword_161:14,
@@ -314,21 +329,37 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Lsword_001:20,
 	Weapon_Lsword_002:25,
 	Weapon_Lsword_003:30,
+	Weapon_Lsword_005:27,
+	Weapon_Lsword_006:28,
+	Weapon_Lsword_011:18,
+	Weapon_Lsword_012:24,
+	Weapon_Lsword_016:18,
+	Weapon_Lsword_017:21,
+	Weapon_Lsword_018:24,
 	Weapon_Lsword_019:5,
 	Weapon_Lsword_020:8,
 	Weapon_Lsword_024:40,
 	Weapon_Lsword_027:30,
 	Weapon_Lsword_029:14,
+	Weapon_Lsword_030:52,
+	Weapon_Lsword_031:40,
+	Weapon_Lsword_032:32,
+	Weapon_Lsword_033:50,
+	Weapon_Lsword_034:40,
+	Weapon_Lsword_035:50,
 	Weapon_Lsword_036:30,
+	Weapon_Lsword_037:40,
 	Weapon_Lsword_038:8,
 	Weapon_Lsword_041:25,
 	Weapon_Lsword_045:6,
 	Weapon_Lsword_047:12,
 	Weapon_Lsword_051:40,
 	Weapon_Lsword_054:40,
+	Weapon_Lsword_055:35,
 	Weapon_Lsword_057:50,
 	Weapon_Lsword_059:60,
 	Weapon_Lsword_060:35,
+	Weapon_Lsword_074:25,
 	Weapon_Lsword_101:15,
 	Weapon_Lsword_103:14,
 	Weapon_Lsword_106:16,
@@ -340,8 +371,12 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Lsword_124:20,
 	Weapon_Lsword_127:20,
 	Weapon_Lsword_129:10,
+	Weapon_Lsword_130:30,
+	Weapon_Lsword_131:30,
 	Weapon_Lsword_136:18,
+	Weapon_Lsword_137:30,
 	Weapon_Lsword_147:11,
+	Weapon_Lsword_155:25,
 	Weapon_Lsword_161:14,
 	Weapon_Lsword_163:16,
 	Weapon_Lsword_164:18,
@@ -349,18 +384,35 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Lsword_168:14,
 	Weapon_Lsword_174:18,
 	Weapon_Lsword_154:40,
+	
 	Weapon_Spear_001:30,
 	Weapon_Spear_002:35,
 	Weapon_Spear_003:40,
+	Weapon_Spear_005:35,
+	Weapon_Spear_006:36,
+	Weapon_Spear_007:18,
+	Weapon_Spear_008:22,
+	Weapon_Spear_009:28,
+	Weapon_Spear_011:23,
+	Weapon_Spear_012:25,
+	Weapon_Spear_016:25,
+	Weapon_Spear_017:30,
+	Weapon_Spear_018:35,
 	Weapon_Spear_021:12,
 	Weapon_Spear_022:12,
 	Weapon_Spear_024:50,
 	Weapon_Spear_025:35,
 	Weapon_Spear_027:40,
+	Weapon_Spear_028:40,
 	Weapon_Spear_029:20,
 	Weapon_Spear_030:26,
+	Weapon_Spear_031:50,
 	Weapon_Spear_032:35,
+	Weapon_Spear_033:50,
+	Weapon_Spear_034:40,
+	Weapon_Spear_035:50,
 	Weapon_Spear_036:8,
+	Weapon_Spear_037:35,
 	Weapon_Spear_038:12,
 	Weapon_Spear_047:15,
 	Weapon_Spear_050:70,
@@ -374,8 +426,11 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Spear_124:30,
 	Weapon_Spear_125:24,
 	Weapon_Spear_127:26,
+	Weapon_Spear_128:26,
 	Weapon_Spear_129:15,
+	Weapon_Spear_131:28,
 	Weapon_Spear_132:25,
+	Weapon_Spear_137:28,
 	Weapon_Spear_147:14,
 	Weapon_Spear_161:14,
 	Weapon_Spear_163:24,
@@ -629,9 +684,13 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_031', //Feathered Edge
 		'Weapon_Sword_129', //Gerudo Scimitar (decayed)
 		'Weapon_Sword_029', //Gerudo Scimitar
+		'Weapon_Sword_130',
+		'Weapon_Sword_030'
 		'Weapon_Sword_052', //Scimitar of the Seven
 		'Weapon_Sword_114', //Eightfold Blade (decayed)
 		'Weapon_Sword_041', //Eightfold Blade
+		'Weapon_Sword_053',
+		'Weapon_Sword_073'
 		'Weapon_Sword_021', //Rusty Broadsword
 		'Weapon_Sword_058', //Sword of the Hero
 		'Weapon_Sword_147', //Royal Guard's Sword (decayed)
@@ -641,16 +700,26 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_103', //Wooden Stick
 		'Weapon_Sword_108', //Sturdy Wooden Stick
 		'Weapon_Sword_109', //Gnarled Wooden Stick
+		'Weapon_Sword_005',
+		'Weapon_Sword_006',
 		'Weapon_Sword_101', //Zonaite Sword
 		'Weapon_Sword_163', //Strong Zonaite Sword
 		'Weapon_Sword_164', //Mighty Zonaite Sword
+		'Weapon_Sword_033',
+		'Weapon_Sword_034',
+		'Weapon_Sword_035',
 		'Weapon_Sword_161', //Magic Rod
 		'Weapon_Sword_019', //Bokoblin Arm
 		'Weapon_Sword_020', //Lizalfos Arm
 		'Weapon_Sword_166', //Gloom Sword
+		'Weapon_Sword_016',
+		'Weapon_Sword_017',
+		'Weapon_Sword_018',
 		'Weapon_Sword_105', //Boomerang (decayed)
 		'Weapon_Sword_051', //Boomerang
 		'Weapon_Sword_107', //Lizal Boomerang
+		'Weapon_Sword_008',
+		'Weapon_Sword_009',
 		'Weapon_Sword_059', //Sea-Breeze Boomerang
 		'Weapon_Sword_044', //Tree Branch
 		'Weapon_Sword_167', //Tree Branch (sky)
@@ -681,12 +750,17 @@ Equipment.AVAILABILITY={
 		'Weapon_Lsword_027', //Zora Longsword
 		'Weapon_Lsword_136', //Cobble Crusher (decayed)
 		'Weapon_Lsword_036', //Cobble Crusher
+		'Weapon_Lsword_137',
+		'Weapon_Lsword_037',
 		'Weapon_Lsword_054', //Boulder Breaker
 		'Weapon_Lsword_059', //Biggoron's Sword
 		'Weapon_Lsword_129', //Gerudo Claymore (decayed)
 		'Weapon_Lsword_029', //Gerudo Claymore
 		'Weapon_Lsword_114', //Eightfold Longblade (decayed)
 		'Weapon_Lsword_041', //Eightfold Longblade
+		'Weapon_Lsword_155',
+		'Weapon_Lsword_055',
+		'Weapon_Lsword_074',
 		'Weapon_Lsword_057', //Dusk Claymore
 		'Weapon_Lsword_060', //Fierce Deity Sword
 		'Weapon_Lsword_020', //Rusty Claymore
@@ -696,14 +770,29 @@ Equipment.AVAILABILITY={
 		'Weapon_Lsword_103', //Thick Stick
 		'Weapon_Lsword_108', //Sturdy Thick Stick
 		'Weapon_Lsword_109', //Gnarled Thick Stick
+		'Weapon_Lsword_005',
+		'Weapon_Lsword_006',
+		'Weapon_Lsword_011',
+		'Weapon_Lsword_012',
 		'Weapon_Lsword_101', //Zonaite Longsword
 		'Weapon_Lsword_163', //Strong Zonaite Longsword
 		'Weapon_Lsword_164', //Mighty Zonaite Longsword
+		'Weapon_Lsword_033',
+		'Weapon_Lsword_034',
+		'Weapon_Lsword_035',
 		'Weapon_Lsword_161', //Magic Scepter
 		'Weapon_Lsword_019', //Moblin Arm
 		'Weapon_Lsword_166', //Gloom Club
+		'Weapon_Lsword_016',
+		'Weapon_Lsword_017',
+		'Weapon_Lsword_018',
 		'Weapon_Lsword_045', //Farming Hoe
 		'Weapon_Lsword_038', //Boat Oar
+		'Weapon_Lsword_131',
+		'Weapon_Lsword_031',
+		'Weapon_Lsword_032',
+		'Weapon_Lsword_130',
+		'Weapon_Lsword_030',
 		
 		'Weapon_Lsword_154', //Yunobo's Boulder Breaker
 
@@ -722,11 +811,17 @@ Equipment.AVAILABILITY={
 		'Weapon_Spear_025', //Forest Dweller's Spear
 		'Weapon_Spear_127', //Zora Spear (decayed)
 		'Weapon_Spear_027', //Zora Spear
+		'Weapon_Spear_128',
+		'Weapon_Spear_028',
 		'Weapon_Spear_050', //Lightscale Trident
+		'Weapon_Spear_131',
+		'Weapon_Spear_031',
 		'Weapon_Spear_132', //Feathered Spear (decayed)
 		'Weapon_Spear_032', //Feathered Spear
 		'Weapon_Spear_129', //Gerudo Spear (decayed)
 		'Weapon_Spear_029', //Gerudo Spear
+		'Weapon_Spear_137',
+		'Weapon_Spear_037',
 		'Weapon_Spear_021', //Rusty Halberd
 		'Weapon_Spear_147', //Royal Guard's Spear (decayed)
 		'Weapon_Spear_047', //Royal Guard's Spear
@@ -734,11 +829,24 @@ Equipment.AVAILABILITY={
 		'Weapon_Spear_103', //Long Stick
 		'Weapon_Spear_108', //Sturdy Long Stick
 		'Weapon_Spear_109', //Gnarled Long Stick
+		'Weapon_Spear_005',
+		'Weapon_Spear_006',
+		'Weapon_Spear_011',
+		'Weapon_Spear_012',
 		'Weapon_Spear_101', //Zonaite Spear
 		'Weapon_Spear_163', //Strong Zonaite Spear
 		'Weapon_Spear_164', //Mighty Zonaite Spear
+		'Weapon_Spear_033',
+		'Weapon_Spear_034',
+		'Weapon_Spear_035',
 		'Weapon_Spear_161', //Magic Staff
 		'Weapon_Spear_166', //Gloom Spear
+		'Weapon_Spear_016',
+		'Weapon_Spear_017',
+		'Weapon_Spear_018',
+		'Weapon_Spear_007',
+		'Weapon_Spear_008',
+		'Weapon_Spear_009',
 		'Weapon_Spear_036', //Wooden Mop
 		'Weapon_Spear_022', //Farmer's Pitchfork
 		
@@ -846,6 +954,7 @@ Equipment.WEAPONS_DECAYED_TO_PRISTINE={
 	'Weapon_Sword_125':'Weapon_Sword_025', //Forest Dweller's Sword
 	'Weapon_Sword_127':'Weapon_Sword_027', //Zora Sword
 	'Weapon_Sword_129':'Weapon_Sword_029', //Gerudo Scimitar
+	'Weapon_Sword_130':'Weapon_Sword_030',
 	'Weapon_Sword_131':'Weapon_Sword_031', //Feathered Edge
 	'Weapon_Sword_114':'Weapon_Sword_041', //Eightfold Blade
 	'Weapon_Sword_147':'Weapon_Sword_047', //Royal Guard's Sword
@@ -858,9 +967,13 @@ Equipment.WEAPONS_DECAYED_TO_PRISTINE={
 	'Weapon_Lsword_127':'Weapon_Lsword_027', //Zora Longsword
 	'Weapon_Lsword_129':'Weapon_Lsword_029', //Gerudo Claymore
 	'Weapon_Lsword_136':'Weapon_Lsword_036', //Cobble Crusher
+	'Weapon_Lsword_137':'Weapon_Lsword_037',
 	'Weapon_Lsword_114':'Weapon_Lsword_041', //Eightfold Longblade
+	'Weapon_Lsword_155':'Weapon_Lsword_055',
 	'Weapon_Lsword_147':'Weapon_Lsword_047', //Royal Guard's Claymore
 	'Weapon_Lsword_168':'Weapon_Lsword_103', //Thick Stick
+	'Weapon_Lsword_130':'Weapon_Lsword_030',
+	'Weapon_Lsword_131':'Weapon_Lsword_031',
 	'Weapon_Lsword_174':'Weapon_Lsword_051', //Giant Boomerang
 
 	'Weapon_Spear_106':'Weapon_Spear_001', //Traveler's Spear
@@ -869,9 +982,12 @@ Equipment.WEAPONS_DECAYED_TO_PRISTINE={
 	'Weapon_Spear_124':'Weapon_Spear_024', //Royal Halberd
 	'Weapon_Spear_125':'Weapon_Spear_025', //Forest Dweller's Spear
 	'Weapon_Spear_127':'Weapon_Spear_027', //Zora Spear
+	'Weapon_Spear_128':'Weapon_Spear_028',
 	'Weapon_Spear_129':'Weapon_Spear_029', //Gerudo Spear
 	'Weapon_Spear_173':'Weapon_Spear_030', //Throwing Spear
+	'Weapon_Spear_131':'Weapon_Spear_031',
 	'Weapon_Spear_132':'Weapon_Spear_032', //Feathered Spear
+	'Weapon_Spear_137':'Weapon_Spear_037',
 	'Weapon_Spear_147':'Weapon_Spear_047', //Royal Guard's Spear
 	'Weapon_Spear_168':'Weapon_Spear_103' //Long Stick
 };
